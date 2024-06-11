@@ -5,8 +5,8 @@ function Footer() {
     <footer className="bg-green-900 text-white p-4 text-center">
       <div className="footer-logo text-xl">MoneyWise</div>
       <div className="footer-links mt-4">
-        <a href="#" className="mx-2">Termos de Uso</a>
-        <a href="#" className="mx-2">Política de Privacidade</a>
+        <a href="www.google.com.br" target="_blank" className="mx-2">Termos de Uso</a>
+        <a href="www.google.com.br" target="_blank" className="mx-2">Política de Privacidade</a>
       </div>
     </footer>
   );
